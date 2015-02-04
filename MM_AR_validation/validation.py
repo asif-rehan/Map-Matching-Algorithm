@@ -1,7 +1,7 @@
 '''
 Created on Dec 7, 2014
 
-@author: asr13006
+@author: asif.rehan@engineer.uconn.edu
 '''
 import pandas as pd
 import MM_main
